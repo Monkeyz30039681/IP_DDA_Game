@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\uni_ip\\ip_dda_game\\ip_game\\intermediate\\build\\win64\\unrealeditor\\inc\\ip_game\\uht\\ip_gamecharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\uni_ip\\ip_dda_game\\ip_game\\intermediate\\build\\win64\\x64\\ip_gameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\uni_ip\\ip_dda_game\\ip_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ip_game\\definitions.ip_game.h",
+            "d:\\uni_ip\\ip_dda_game\\ip_game\\source\\ip_game\\ip_gamecharacter.h",
+            "f:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "f:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "f:\\epic\\ue_5.4\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "f:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "f:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "f:\\epic\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "f:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "f:\\epic\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\uni_ip\\ip_dda_game\\ip_game\\intermediate\\build\\win64\\unrealeditor\\inc\\ip_game\\uht\\ip_gamecharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
