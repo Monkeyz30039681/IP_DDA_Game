@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Levels/Test_Level.umap"
+			]
+		}
+	]
+}
