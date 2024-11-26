@@ -8,6 +8,13 @@
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Levels/Test_Level.umap",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player_Charcter_Base.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Player_Charcter_Base.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/IP_GameMode.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/IP_PlayerController.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Inputs/Default.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Inputs/Movement_Action.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Inputs/Mouse_Movement.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Interface/INT_PlayerController.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
@@ -236,10 +243,7 @@
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
-				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
-				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Player_Charcter_Base.uasset",
-				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/IP_GameMode.uasset",
-				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/IP_PlayerController.uasset"
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/ThirdPerson/Input/IMC_Default.uasset"
 			]
 		}
 	]
