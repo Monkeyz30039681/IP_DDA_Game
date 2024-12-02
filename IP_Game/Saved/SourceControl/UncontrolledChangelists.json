@@ -159,6 +159,8 @@
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Weapons/Weapon_Base.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Weapons/BP_Pistol.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Weapons/BP_AR47.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_X.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Animations/BS_Walk_UA1.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Animations/BS_Crouch_UA2.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
