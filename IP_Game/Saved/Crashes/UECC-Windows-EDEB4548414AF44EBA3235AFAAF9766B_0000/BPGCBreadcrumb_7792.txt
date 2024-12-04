@@ -1,0 +1,2 @@
+/Game/Levels/Test_Level.Test_Level:PersistentLevel.BP_AR47_C_1
+/Game/Blueprints/Weapons/Weapon_Base.Weapon_Base_C

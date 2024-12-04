@@ -1,0 +1,2 @@
+/Game/Blueprints/Weapons/Weapon_Base.Default__Weapon_Base_C
+/Game/Blueprints/Weapons/Weapon_Base.Weapon_Base_C
