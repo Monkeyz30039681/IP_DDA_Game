@@ -207,6 +207,8 @@
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Assets/AI_Animations/WalkBlendSpace1D.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Assets/AI_Animations/AB_EnemyAi.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Enemy/WB_EnemyHealthBar.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Enemy/Test_Dummy/Test_Dummy.uasset",
+				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Enemy/Test_Dummy/Enemy_Base.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/UI/WB_Ammo.uasset",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/FPS_Weapon_Bundle/Maps/Weapons_Showcase.umap",
 				"D:/Uni_IP/IP_DDA_Game/IP_Game/Content/Blueprints/Player/Inputs/Drop_Weapon.uasset",
