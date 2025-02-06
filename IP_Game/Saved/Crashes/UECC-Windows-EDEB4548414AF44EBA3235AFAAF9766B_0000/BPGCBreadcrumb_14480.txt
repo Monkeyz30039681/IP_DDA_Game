@@ -1,2 +1,0 @@
-/Game/Blueprints/Weapons/BP_AR4.Default__BP_AR4_C
-/Game/Blueprints/Weapons/Weapon_Base.Weapon_Base_C
